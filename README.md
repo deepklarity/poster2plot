@@ -1,4 +1,5 @@
 # Poster2Plot: Generate movie/t.v show plot from a poster.
+![image](https://github.com/deepklarity/poster2plot/assets/47515542/359d80b9-b2f0-4a9f-9ba9-25415316f999)
 
 ## ➡️ Try it out on any movie poster [here](https://huggingface.co/spaces/deepklarity/poster2plot)
 
